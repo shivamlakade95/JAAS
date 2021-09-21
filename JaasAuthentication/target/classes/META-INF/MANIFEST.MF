@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1632197357828
+Build-Jdk: 11.0.11
+Built-By: slakade
+Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
+Bundle-Description: Empty Camel Blueprint Example
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.html
+Bundle-ManifestVersion: 2
+Bundle-Name: Empty Camel  Example [JaasAuthentication]
+Bundle-SymbolicName: JaasAuthentication
+Bundle-Version: 1.0.10
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.eclipse.jetty.security;version="[9.4,10)",org.eclips
+ e.jetty.security.authentication;version="[9.4,10)",org.eclipse.jetty.ut
+ il.security;version="[9.4,10)",org.osgi.service.blueprint;version="[1.0
+ .0,2.0.0)"
+Tool: Bnd-3.2.0.201605172007
